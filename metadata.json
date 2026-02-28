@@ -1,0 +1,5 @@
+{
+  "name": "Math Rocket AI",
+  "description": "An AI-powered math learning game where students solve problems to launch their rocket through space. Features adaptive difficulty and personalized learning for Class 1-10.",
+  "requestFramePermissions": []
+}
